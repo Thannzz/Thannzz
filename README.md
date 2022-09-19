@@ -41,7 +41,7 @@
 </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://activity-graph.herokuapp.com/graph?username=thannzz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
