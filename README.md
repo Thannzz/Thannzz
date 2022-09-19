@@ -21,8 +21,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thannzz&label=Profile%20views&color=0e75b6&style=flat" alt="ahtishamkhan5678" /> </p> -->
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thannzz&show_icons=true&locale=en&theme=dark" alt="thannzz"  height="139" />
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=thannzz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="thannzz" height="139" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=thannzz&show_icons=true&locale=en&theme=dark" alt="ahtishamkhan5678"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannzz&layout=compact&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=thannzz&theme=xcode" height ="307"/>
@@ -59,6 +59,7 @@
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50" />
+  
 
 <!--    -->
 
