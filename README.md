@@ -37,7 +37,7 @@
 <p align="center">
 <a href="https://www.instagram.com/geekey_boy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thannzz" height="30" width="40" margin="10" /></a>
 <a href="https://www.linkedin.com/in/thanigaivel-ambalavanan-3b4a30120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" margin="10" /></a>
-<a href="https://mail.google.com/mail/u/0/?tab=om#inbox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="thanigai" height="30" width="40" margin="10" /></a>
+<a href="(mailto:thanigai128@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="thanigai" height="30" width="40" margin="10" /></a>
 </p>
 </div>
 
