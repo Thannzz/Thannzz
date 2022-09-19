@@ -25,7 +25,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannzz&layout=compact&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ahtishamkhan5678&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=thannzz&theme=xcode" height ="307"/>
 
 ![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
