@@ -25,7 +25,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thannzz&layout=compact&border_radius=0&theme=dark" alt="ahtishamkhan5678" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=thannzz&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=thannzz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" height ="307"/>
 
 ![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
 
@@ -41,7 +41,7 @@
 </p>
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=thannzz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
@@ -59,7 +59,7 @@
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50" />
-  
+
 
 <!--    -->
 
