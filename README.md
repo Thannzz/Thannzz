@@ -28,7 +28,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=thannzz&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" height ="307"/>
 
-![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/thannzz/thannzz/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
