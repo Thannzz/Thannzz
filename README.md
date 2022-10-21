@@ -8,12 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
-- 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Masai School (MERN Developer)**
+- 🔭 I’m currently working on **My Skill😄**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://thannzz-github-io.vercel.app/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dZy9ODJLR1Ib2-uCQgHWaqOY4hX9WdqM/view)
 - 📫 How to reach me: ...**thanigai128@gmail.com**
-- ⚡ Fun fact: ...Always smile😄 in tough situation
+- ⚡ Fun fact: Love to hear music..!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
