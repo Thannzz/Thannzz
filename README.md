@@ -33,7 +33,7 @@
                                                          
 <h3 align="left">Connect with me</h3>
 <p align="center">
-<a href="https://www.instagram.com/geekey_boy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thannzz" height="30" width="40" margin="10" /></a>
+<a href="https://mail.google.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" alt="muhammad ahtisham" height="40" width="40" margin="10" /></a>
 <a href="https://www.linkedin.com/in/thanigaivel-ambalavanan-3b4a30120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ahtisham" height="30" width="40" margin="10" /></a>
 
 </p>
